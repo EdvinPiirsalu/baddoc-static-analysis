@@ -10,6 +10,8 @@ Static analysis is the process of examining a file without executing it. The goa
 
 The sample analyzed is `baddoc.doc`.
 
+This analysis was performed as a lab exercise using the LetsDefend virtual machine.
+
 ## 1. Hash Analysis and VirusTotal
 
 The first step is to generate cryptographic hashes of the file to uniquely identify it.
